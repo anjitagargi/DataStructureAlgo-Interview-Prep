@@ -1,1 +1,1 @@
-# DataStructureAlgo--Interview-Prep
+# DataStructureAlgo-Interview-Prep
